@@ -780,5 +780,8 @@
     <ClCompile Include="剑指offerNo67_剪绳子_20250818.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="129_求根节点到叶节点数字之和_20250827.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

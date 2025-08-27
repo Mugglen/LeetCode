@@ -146,6 +146,7 @@
     <ClCompile Include="125_验证回文串_20250825.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
+    <ClCompile Include="129_求根节点到叶节点数字之和_20250827.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
     <ClCompile Include="134_加油站_20250826.cpp" />
     <ClCompile Include="136_只出现一次的数_20250710.cpp" />

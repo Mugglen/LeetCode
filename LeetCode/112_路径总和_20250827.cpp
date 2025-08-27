@@ -25,9 +25,26 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-class Solution {
+class Solution1 {
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
+        // 递归边界(注意本题要单独判断叶子节点，直接像下面这么写是错的)
+        if (root == nullptr) return targetSum == 0;
+        // 递归
+        return hasPathSum(root->left, targetSum - root->val) || hasPathSum(root->right, targetSum - root->val);
+        
+    }
+};
+
+class Solution { // 这个是对的
+public:
+    bool hasPathSum(TreeNode* root, int targetSum) {
+        // 递归边界(注意本题要单独判断叶子节点)
+        if (root == nullptr) return false;
+        targetSum -= root->val;
+        if (root->left == nullptr && root->right == nullptr) return targetSum == 0;
+        // 递归(注意和solution1的区别，对targetSum的判断上移了一层)
+        return hasPathSum(root->left, targetSum) || hasPathSum(root->right, targetSum);
 
     }
 };
