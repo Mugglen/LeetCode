@@ -783,5 +783,14 @@
     <ClCompile Include="129_求根节点到叶节点数字之和_20250827.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="13_罗马数字转整数_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_整数转罗马数字_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="173_二叉搜索树迭代器_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

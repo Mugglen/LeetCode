@@ -147,6 +147,7 @@
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
     <ClCompile Include="129_求根节点到叶节点数字之和_20250827.cpp" />
+    <ClCompile Include="12_整数转罗马数字_20250828.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
     <ClCompile Include="134_加油站_20250826.cpp" />
     <ClCompile Include="136_只出现一次的数_20250710.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="138_随机链表的复制_20250728.cpp" />
     <ClCompile Include="139_单词拆分_20250722.cpp" />
     <ClCompile Include="139_打家劫舍_20250721.cpp" />
+    <ClCompile Include="13_罗马数字转整数_20250828.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
@@ -175,6 +177,7 @@
     <ClCompile Include="160_相交链表_20250714.cpp" />
     <ClCompile Include="160_练习（双指针法）.cpp" />
     <ClCompile Include="169_多数元素_20250710.cpp" />
+    <ClCompile Include="173_二叉搜索树迭代器_20250828.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
     <ClCompile Include="17_电话号码的字母组合_20250708.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
