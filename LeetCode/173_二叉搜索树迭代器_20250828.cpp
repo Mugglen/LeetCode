@@ -69,10 +69,10 @@ public:
 
 
 
-#define DEBUG2
+//#define DEBUG2
 #ifdef DEBUG2
 
-
+// สนำรธจึ๚ีป
 
 struct TreeNode {
     int val;

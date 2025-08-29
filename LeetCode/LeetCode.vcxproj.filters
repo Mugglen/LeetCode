@@ -792,5 +792,26 @@
     <ClCompile Include="173_二叉搜索树迭代器_20250828.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="笔试_作业帮_割绳子_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_作业帮_盛最多水的容器_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_作业帮_二叉树上最值的距离_20250828.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="222_完全二叉树的节点个数_20250829.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_最后一个单词的长度_20250829.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="167_两数之和Ⅱ_20250829.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36_有效的数独_20250829.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

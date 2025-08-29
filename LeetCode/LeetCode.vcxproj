@@ -176,6 +176,7 @@
     <ClCompile Include="160_相交链表.cpp" />
     <ClCompile Include="160_相交链表_20250714.cpp" />
     <ClCompile Include="160_练习（双指针法）.cpp" />
+    <ClCompile Include="167_两数之和Ⅱ_20250829.cpp" />
     <ClCompile Include="169_多数元素_20250710.cpp" />
     <ClCompile Include="173_二叉搜索树迭代器_20250828.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
@@ -202,6 +203,7 @@
     <ClCompile Include="21_合并两个有序链表.cpp" />
     <ClCompile Include="21_合并两个有序链表_20250704.cpp" />
     <ClCompile Include="21_合并两个有序链表_2025826.cpp" />
+    <ClCompile Include="222_完全二叉树的节点个数_20250829.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="22_括号生成_20250711.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
@@ -240,6 +242,7 @@
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置_20250716.cpp" />
     <ClCompile Include="35_搜索插入位置.cpp" />
+    <ClCompile Include="36_有效的数独_20250829.cpp" />
     <ClCompile Include="380_O1时间插入、删除和获取随机元素_20250826.cpp" />
     <ClCompile Include="383_赎金信_20250820.cpp" />
     <ClCompile Include="392_判断子序列_20250826.cpp" />
@@ -269,6 +272,7 @@
     <ClCompile Include="55_跳跃游戏_20250726.cpp" />
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
+    <ClCompile Include="58_最后一个单词的长度_20250829.cpp" />
     <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp" />
     <ClCompile Include="61_旋转链表_20250819.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
@@ -381,6 +385,9 @@
     <ClCompile Include="剑指offerNo7_斐波那契数列_20250801.cpp" />
     <ClCompile Include="剑指offerNo8_跳台阶_20250801.cpp" />
     <ClCompile Include="剑指offerNo9_跳台阶扩展_20250802.cpp" />
+    <ClCompile Include="笔试_作业帮_二叉树上最值的距离_20250828.cpp" />
+    <ClCompile Include="笔试_作业帮_割绳子_20250828.cpp" />
+    <ClCompile Include="笔试_作业帮_盛最多水的容器_20250828.cpp" />
     <ClCompile Include="编程实现一个单例模式_20250723.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
