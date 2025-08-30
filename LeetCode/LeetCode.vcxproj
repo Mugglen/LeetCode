@@ -167,6 +167,7 @@
     <ClCompile Include="146_LRU缓存.cpp" />
     <ClCompile Include="148_排序链表.cpp" />
     <ClCompile Include="148_排序链表_20250730.cpp" />
+    <ClCompile Include="14_最长公共前缀_20250830.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250723.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250728.cpp" />
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
@@ -229,6 +230,8 @@
     <ClCompile Include="283_移动零_20250721.cpp" />
     <ClCompile Include="287_寻找重复数_20250718.cpp" />
     <ClCompile Include="287_寻找重复数_20250728.cpp" />
+    <ClCompile Include="289_生命游戏_20250830.cpp" />
+    <ClCompile Include="290_单词规律_20250830.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="2_两数相加_20250725.cpp" />
     <ClCompile Include="2_两数相加_20250825.cpp" />

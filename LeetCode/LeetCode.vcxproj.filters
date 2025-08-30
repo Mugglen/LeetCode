@@ -813,5 +813,14 @@
     <ClCompile Include="36_有效的数独_20250829.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="14_最长公共前缀_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="289_生命游戏_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="290_单词规律_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
