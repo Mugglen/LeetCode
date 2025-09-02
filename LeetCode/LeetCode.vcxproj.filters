@@ -822,5 +822,38 @@
     <ClCompile Include="290_单词规律_20250830.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="笔试_美团_第一题_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_美团_第二题_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_美团_第三题_20250830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_拼多多_第一题_20250831.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_拼多多_第二题_20250831.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_拼多多_第三题_20250831.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔试_拼多多_第四题_20250831.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="151_反转字符串中的单词_20250902.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217_存在重复元素_20250902.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="219_存在重复元素Ⅱ_20250902.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="228_汇总区间_20250902.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

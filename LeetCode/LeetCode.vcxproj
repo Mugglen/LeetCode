@@ -168,6 +168,7 @@
     <ClCompile Include="148_排序链表.cpp" />
     <ClCompile Include="148_排序链表_20250730.cpp" />
     <ClCompile Include="14_最长公共前缀_20250830.cpp" />
+    <ClCompile Include="151_反转字符串中的单词_20250902.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250723.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250728.cpp" />
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
@@ -201,11 +202,14 @@
     <ClCompile Include="209_长度最小的子数组_20250707.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
+    <ClCompile Include="217_存在重复元素_20250902.cpp" />
+    <ClCompile Include="219_存在重复元素Ⅱ_20250902.cpp" />
     <ClCompile Include="21_合并两个有序链表.cpp" />
     <ClCompile Include="21_合并两个有序链表_20250704.cpp" />
     <ClCompile Include="21_合并两个有序链表_2025826.cpp" />
     <ClCompile Include="222_完全二叉树的节点个数_20250829.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
+    <ClCompile Include="228_汇总区间_20250902.cpp" />
     <ClCompile Include="22_括号生成_20250711.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="232_用栈实现队列_20250701.cpp" />
@@ -391,6 +395,13 @@
     <ClCompile Include="笔试_作业帮_二叉树上最值的距离_20250828.cpp" />
     <ClCompile Include="笔试_作业帮_割绳子_20250828.cpp" />
     <ClCompile Include="笔试_作业帮_盛最多水的容器_20250828.cpp" />
+    <ClCompile Include="笔试_拼多多_第一题_20250831.cpp" />
+    <ClCompile Include="笔试_拼多多_第三题_20250831.cpp" />
+    <ClCompile Include="笔试_拼多多_第二题_20250831.cpp" />
+    <ClCompile Include="笔试_拼多多_第四题_20250831.cpp" />
+    <ClCompile Include="笔试_美团_第一题_20250830.cpp" />
+    <ClCompile Include="笔试_美团_第三题_20250830.cpp" />
+    <ClCompile Include="笔试_美团_第二题_20250830.cpp" />
     <ClCompile Include="编程实现一个单例模式_20250723.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
