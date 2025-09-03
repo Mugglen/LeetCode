@@ -855,5 +855,17 @@
     <ClCompile Include="228_汇总区间_20250902.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="56_合并区间_20250903.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="71_简化路径_20250903.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="637_二叉树的层平均值_20250903.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130_被围绕的区域_20250903.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

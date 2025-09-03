@@ -102,6 +102,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -148,6 +149,7 @@
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
     <ClCompile Include="129_求根节点到叶节点数字之和_20250827.cpp" />
     <ClCompile Include="12_整数转罗马数字_20250828.cpp" />
+    <ClCompile Include="130_被围绕的区域_20250903.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
     <ClCompile Include="134_加油站_20250826.cpp" />
     <ClCompile Include="136_只出现一次的数_20250710.cpp" />
@@ -279,13 +281,16 @@
     <ClCompile Include="55_跳跃游戏_20250726.cpp" />
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
+    <ClCompile Include="56_合并区间_20250903.cpp" />
     <ClCompile Include="58_最后一个单词的长度_20250829.cpp" />
     <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp" />
     <ClCompile Include="61_旋转链表_20250819.cpp" />
+    <ClCompile Include="637_二叉树的层平均值_20250903.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="704_二分查找_20250630.cpp" />
     <ClCompile Include="707_设计链表_20250703.cpp" />
     <ClCompile Include="70_爬楼梯.cpp" />
+    <ClCompile Include="71_简化路径_20250903.cpp" />
     <ClCompile Include="739_每日温度_20250702.cpp" />
     <ClCompile Include="73_矩阵置零.cpp" />
     <ClCompile Include="743_网络延迟时间.cpp" />
